@@ -1,4 +1,4 @@
-# Real-time Chat / Messaging Platform (Go)
+# Real-time Chat (Go)
 
 > Bilingual README: **Russian** first, then **English**.
 
