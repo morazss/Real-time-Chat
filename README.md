@@ -8,7 +8,7 @@
 
 ### Overview
 
-Real-time Chat / Messaging Platform is a production-style backend project written in Go, focused on real-time messaging.
+Real-time Chat is a production-style backend project written in Go, focused on real-time messaging.
 
 Users can:
 
@@ -308,7 +308,7 @@ Planned or possible improvements:
 
 ### Обзор
 
-Real-time Chat / Мессенджер в реальном времени — это backend-проект на Go, архитектурно близкий к production и предназначенный для отработки навыков разработки real-time сервисов.
+Real-time Chat — это backend-проект на Go, архитектурно близкий к production и предназначенный для отработки навыков разработки real-time сервисов.
 
 Пользователи могут:
 
